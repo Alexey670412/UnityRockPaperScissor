@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244632252299",
+    "firebase_url": "https://rock-paper-scissors-e8e8b-default-rtdb.firebaseio.com",
+    "project_id": "rock-paper-scissors-e8e8b",
+    "storage_bucket": "rock-paper-scissors-e8e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244632252299:android:56e07ae1cc7560edc1498e",
+        "android_client_info": {
+          "package_name": "com.Alexey67.RockPaperScissors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244632252299-8g92mgjgdhid2816qpim3uqo8k1ncdqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsP0YlzmMnXD24sxThXz29eLTHv_0ryQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244632252299-8g92mgjgdhid2816qpim3uqo8k1ncdqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
